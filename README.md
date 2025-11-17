@@ -40,9 +40,10 @@ Save different versions of the videos and compare the results to understand how 
 
 ### Basic prompt :
 "Generate me a 5-10 secs of iron man flying in the sky."
-OUTPUT :
-https://github.com/user-attachments/assets/624341f3-e758-4661-9018-911c83a3f051
 
+OUTPUT :
+
+https://github.com/user-attachments/assets/e4281da3-54e0-4fe2-89c3-0a69e10d846a
 
 
 
