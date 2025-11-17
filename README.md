@@ -46,13 +46,18 @@ OUTPUT :
 https://github.com/user-attachments/assets/e4281da3-54e0-4fe2-89c3-0a69e10d846a
 
 ### Refined prompt :
-
+"A dynamic, cinematic, low-angle shot of an Iron Man-like figure in a highly detailed, sleek metallic red and gold armor, flying at incredible speed above a massive, neon-lit futuristic city at sunset. The figure is facing away, suspended in a prone flight position, with powerful, bright blue/white thruster trails shooting from their hands and feet, indicating rapid motion. The city below is a dense canyon of towering skyscrapers, glowing with vibrant neon signs and internal lights. Light streaks blur past the figure, emphasizing velocity. The warm glow of the setting sun on the horizon contrasts sharply with the cool blue and purple neon lights of the metropolis. Highly detailed, octane render, 8K, volumetric lighting, photorealistic."
 
 OUTPUT :
 
 https://github.com/user-attachments/assets/89795fa7-cc37-4660-b876-e36bb56060cd
 
+### Refined prompt (Changed style and camera angles) :
+"A dynamic, low-angle shot of an Iron Man-like figure in metallic red and gold armor, flying at incredible speed above a neon-lit futuristic city at sunset. The figure is suspended in a prone flight position, with powerful blue/white thrusters firing. Bold, clean lines, vibrant cell-shading, dynamic comic book-style composition, bright anime aesthetic, flat colors with strong shadows, 4K."
 
+OUTPUT :
+
+https://github.com/user-attachments/assets/d561b8af-f610-47f9-99ad-3e58a3e0f7cc
 
 # Result:
 
