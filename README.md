@@ -68,7 +68,15 @@ https://github.com/user-attachments/assets/5574c8aa-bbe5-4bdd-94f6-52879f4c48cb
 
 # Comparison :
 
+The videos differ in the following key aspects:
 
+Armor Color: Red/Gold (Clips 1, 2, 3) vs. Emerald Green/Matte Black (Clip 4).
+
+Setting/Location: Futuristic City (Clips 1, 2) vs. Above Clouds/Sky (Clip 3) vs. Near-Orbit/Global View (Clip 4).
+
+Action: Simple Prone Flight (Clips 1, 2, 3) vs. Combat/Firing Weapon (Clip 4).
+
+Aesthetic: The Comic Book/Anime style requested in the second prompt was not delivered, resulting in a photorealistic style instead.
 
 # Result:
 Thus the Exploration of Prompting Techniques for Video Generation was executed successfully.
