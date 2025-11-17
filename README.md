@@ -45,7 +45,12 @@ OUTPUT :
 
 https://github.com/user-attachments/assets/e4281da3-54e0-4fe2-89c3-0a69e10d846a
 
+### Refined prompt :
 
+
+OUTPUT :
+
+https://github.com/user-attachments/assets/89795fa7-cc37-4660-b876-e36bb56060cd
 
 
 
