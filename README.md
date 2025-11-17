@@ -59,5 +59,16 @@ OUTPUT :
 
 https://github.com/user-attachments/assets/d561b8af-f610-47f9-99ad-3e58a3e0f7cc
 
-# Result:
+### New prompt :
+"A dynamic, epic, high-angle cinematic shot of a highly detailed, Iron Man-like figure in a striking, sleek metallic emerald green and matte black armor, aggressively flying and maneuvering high above a breathtaking view of the Earth. The figure is captured mid-action, facing the camera, launching a powerful repulsor blast (brilliant cyan/white beam) from their right hand toward a swarm of smaller, futuristic drone enemies that are chasing them. Explosions are blooming in the background from previous engagements.  Below, the vast, detailed curvature of the planet Earth is visible, showcasing a vibrant blend of lush green jungles and deep blue ocean, partially obscured by wispy white clouds. The lighting is bright and intense, like high noon, casting hard shadows on the armor and highlighting its meticulous mechanical details. Powerful red/orange thruster trails fire from the figure's boot jets, emphasizing speed and combat readiness. Intense volumetric light shines off the polished armor surfaces."
 
+OUTPUT :
+
+https://github.com/user-attachments/assets/5574c8aa-bbe5-4bdd-94f6-52879f4c48cb
+
+# Comparison :
+
+
+
+# Result:
+Thus the Exploration of Prompting Techniques for Video Generation was executed successfully.
